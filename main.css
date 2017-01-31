@@ -2,24 +2,21 @@
 	box-sizing: content-box;
 }
 
-body{
-
-	background: white;
-}
-
 .spacing1{
 	padding: 13px 13px;
 	position: absolute;
 }
 
-a:link{
-	text-decoration: none;
-	color: blue;
+a {
+	font-weight: bold;
+    color: white;
+    text-decoration: none;
+  }
+
+a:hover {
+	background-color: black;
 }
 
-a:hover{
-	background: blue;
-}
 
 p{
 	width: 1000px;
